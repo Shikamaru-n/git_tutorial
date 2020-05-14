@@ -1,2 +1,4 @@
 "initial state" 
 "new changes made to the document"
+"Another change made to the document"
+"this is the changes made after checking out the second commit"
